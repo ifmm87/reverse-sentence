@@ -1,0 +1,27 @@
+{
+  "name": "@ifmm87/reverse-sentence2",
+  "version": "1.0.0",
+  "description": "Reverses a sentence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/prettier/bin-prettier.js . --write"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifmm87/reverse-sentence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ifmm87/reverse-sentence/issues"
+  },
+  "homepage": "https://github.com/ifmm87/reverse-sentence#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
